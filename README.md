@@ -1,7 +1,8 @@
 # Olá! Eu sou Nathan 👋
 
-- 💻 Estou trabalhando com regressão simbólica
-- 🌱 Estou melhorando meus conhecimentos em Python, Java e C
+- 🎓 Estudante de Engenharia de Computação no CEFET-RJ  
+- 🧠 Pesquisa atual: Regressão simbólica com PySR para aplicações reais
+- 📌 Interesses: Machine Learning, ciência de dados, segurança da informação e desenvolvimento backend  
 - 👨🏻‍💻 Linguagens
   
      ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanTrugilho&layout=compact&theme=radical)
